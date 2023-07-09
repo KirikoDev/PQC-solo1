@@ -13,14 +13,39 @@
 #include "cbor.h"
 #include "device.h"
 #include "ctaphid.h"
-//#include "bsp.h"
+// #include "bsp.h"
 #include "util.h"
 #include "log.h"
 #include "ctap.h"
 #include APP_CONFIG
+#include "../../../crypto/kyber512/api.h"
 
 #if !defined(TEST)
 
+void run_benchmark()
+{
+    unsigned char pk[CRYPTO_PUBLICKEYBYTES], sk[CRYPTO_SECRETKEYBYTES];
+    unsigned char ct[CRYPTO_CIPHERTEXTBYTES], ss1[CRYPTO_BYTES], ss2[CRYPTO_BYTES];
+
+    uint32_t start_time, end_time, elapsed_time;
+
+    start_time = HAL_GetTick(); // Getting system tick for STM32L432
+
+    // Generate a keypair
+    crypto_kem_keypair(pk, sk);
+
+    // Encrypt a message
+    crypto_kem_enc(ct, ss1, pk);
+
+    // Decrypt the message
+    crypto_kem_dec(ss2, ct, sk);
+
+    end_time = HAL_GetTick(); // Getting system tick for STM32L432
+
+    elapsed_time = end_time - start_time;
+
+    printf("Kyber benchmark elapsed time: %lu\n", elapsed_time); // Printing the elapsed time to console
+}
 
 int main(int argc, char *argv[])
 {
@@ -28,34 +53,35 @@ int main(int argc, char *argv[])
     uint32_t t1 = 0;
 
     set_logging_mask(
-		/*0*/
-		//TAG_GEN|
-		// TAG_MC |
-		// TAG_GA |
-		TAG_WALLET |
-		TAG_STOR |
-		//TAG_NFC_APDU |
-		TAG_NFC |
-		//TAG_CP |
-		// TAG_CTAP|
-		//TAG_HID|
-		TAG_U2F|
-		//TAG_PARSE |
-		//TAG_TIME|
-		// TAG_DUMP|
-		TAG_GREEN|
-		TAG_RED|
-        TAG_EXT|
-        TAG_CCID|
-		TAG_ERR
-	);
+        /*0*/
+        // TAG_GEN|
+        //  TAG_MC |
+        //  TAG_GA |
+        TAG_WALLET |
+        TAG_STOR |
+        // TAG_NFC_APDU |
+        TAG_NFC |
+        // TAG_CP |
+        //  TAG_CTAP|
+        // TAG_HID|
+        TAG_U2F |
+        // TAG_PARSE |
+        // TAG_TIME|
+        //  TAG_DUMP|
+        TAG_GREEN |
+        TAG_RED |
+        TAG_EXT |
+        TAG_CCID |
+        TAG_ERR);
 
     device_init(argc, argv);
 
-    memset(hidmsg,0,sizeof(hidmsg));
+    // Running benchmark after initialization
+    run_benchmark();
 
+    memset(hidmsg, 0, sizeof(hidmsg));
 
-    while(1)
+    while (1)
     {
         if (millis() - t1 > HEARTBEAT_PERIOD)
         {
@@ -74,7 +100,6 @@ int main(int argc, char *argv[])
         {
         }
         ctaphid_check_timeouts();
-
     }
 
     // Should never get here

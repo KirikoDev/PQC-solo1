@@ -18,6 +18,25 @@ SRC += ../../fido2/extensions/wallet.c
 # Crypto libs
 SRC += ../../crypto/sha256/sha256.c ../../crypto/micro-ecc/uECC.c ../../crypto/tiny-AES-c/aes.c
 SRC += ../../crypto/cifra/src/sha512.c ../../crypto/cifra/src/blockwise.c
+SRC += ../../crypto/kyber512/aes256ctr.c \
+       ../../crypto/kyber512/cbd.c \
+       ../../crypto/kyber512/fips202.c \
+       ../../crypto/kyber512/indcpa.c \
+       ../../crypto/kyber512/kem.c \
+       ../../crypto/kyber512/ntt.c \
+       ../../crypto/kyber512/poly.c \
+       ../../crypto/kyber512/polyvec.c \
+       ../../crypto/kyber512/PQCgenKAT_kem.c \
+       ../../crypto/kyber512/reduce.c \
+       ../../crypto/kyber512/rng.c \
+       ../../crypto/kyber512/sha256.c \
+       ../../crypto/kyber512/sha512.c \
+       ../../crypto/kyber512/speed_print.c \
+       ../../crypto/kyber512/symmetric-aes.c \
+       ../../crypto/kyber512/symmetric-shake.c \
+       ../../crypto/kyber512/test_speed.c \
+       ../../crypto/kyber512/verify.c
+
 
 OBJ1=$(SRC:.c=.o)
 OBJ=$(OBJ1:.s=.o)
@@ -40,7 +59,7 @@ CFLAGS= $(INC)
 
 TARGET=solo
 HW=-mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb
-
+ 
 # Solo or Nucleo board
 CHIP=STM32L432xx
 
@@ -50,7 +69,7 @@ endif
 
 DEFINES = -DDEBUG_LEVEL=$(DEBUG) -D$(CHIP) -DAES256=1  -DUSE_FULL_LL_DRIVER -DAPP_CONFIG=\"app.h\" $(EXTRA_DEFINES)
 
-CFLAGS=$(INC) -c $(DEFINES)   -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -fdata-sections -ffunction-sections \
+CFLAGS=$(INC) -I../../crypto/kyber512/ -c $(DEFINES)   -Wall -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -fdata-sections -ffunction-sections \
 	-fomit-frame-pointer $(HW) -g $(VERSION_FLAGS)
 LDFLAGS_LIB=$(HW) $(SEARCH) -specs=nano.specs  -specs=nosys.specs  -Wl,--gc-sections -lnosys
 LDFLAGS=$(HW) $(LDFLAGS_LIB) -T$(LDSCRIPT) -Wl,-Map=$(TARGET).map,--cref -Wl,-Bstatic -ltinycbor -lsalty

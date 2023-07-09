@@ -12,11 +12,11 @@
 
 #define SOLO
 
-#define DEBUG_UART      USART1
+#define DEBUG_UART USART1
 
 #ifndef DEBUG_LEVEL
 // Enable the CDC ACM USB interface & debug logs (DEBUG_LEVEL > 0)
-#define DEBUG_LEVEL     0
+#define DEBUG_LEVEL 0
 #endif
 
 // Enable the CCID USB interface
@@ -24,13 +24,12 @@
 
 #define NON_BLOCK_PRINTING 0
 
+#define BOOT_TO_DFU 0
 
-#define BOOT_TO_DFU         0
-
-//#define USING_DEV_BOARD
+// #define USING_DEV_BOARD
 
 #define ENABLE_U2F_EXTENSIONS
-    // #define ENABLE_WALLET
+// #define ENABLE_WALLET
 
 #define ENABLE_U2F
 
@@ -52,16 +51,16 @@ void hw_init(int lf);
 // Return 1 if Solo is secure/locked.
 int solo_is_locked();
 
-//#define TEST
-//#define TEST_POWER
+// #define TEST
+// #define TEST_POWER
 
 //                              0xRRGGBB
-#define LED_INIT_VALUE			0x000800
-#define LED_WINK_VALUE			0x000010
-#define LED_MAX_SCALER          15
-#define LED_MIN_SCALER          1
+#define LED_INIT_VALUE 0xFF00EA
+#define LED_WINK_VALUE 0x00FF00
+#define LED_MAX_SCALER 3
+#define LED_MIN_SCALER 1
 // # of ms between each change in LED
-#define HEARTBEAT_PERIOD        150
+#define HEARTBEAT_PERIOD 150
 // Each LED channel will be multiplied by a integer between LED_MAX_SCALER
 // and LED_MIN_SCALER to cause the slow pulse.  E.g.
 // #define LED_INIT_VALUE			0x301000
@@ -72,16 +71,16 @@ int solo_is_locked();
 // Which will take ~8 * (30)*2 ms
 
 // Button
-#define SOLO_BUTTON_PORT        GPIOA
-#define SOLO_BUTTON_PIN         LL_GPIO_PIN_0
+#define SOLO_BUTTON_PORT GPIOA
+#define SOLO_BUTTON_PIN LL_GPIO_PIN_0
 
-#define SOLO_AMS_CS_PORT        GPIOB
-#define SOLO_AMS_CS_PIN         LL_GPIO_PIN_0
+#define SOLO_AMS_CS_PORT GPIOB
+#define SOLO_AMS_CS_PIN LL_GPIO_PIN_0
 
-#define SOLO_AMS_IRQ_PORT       GPIOC
-#define SOLO_AMS_IRQ_PIN        LL_GPIO_PIN_15
+#define SOLO_AMS_IRQ_PORT GPIOC
+#define SOLO_AMS_IRQ_PIN LL_GPIO_PIN_15
 
-#define SKIP_BUTTON_CHECK_WITH_DELAY        0
-#define SKIP_BUTTON_CHECK_FAST              0
+#define SKIP_BUTTON_CHECK_WITH_DELAY 0
+#define SKIP_BUTTON_CHECK_FAST 0
 
 #endif
