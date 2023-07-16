@@ -2,6 +2,9 @@
     "files.associations": {
         "*.pml": "promela",
         "stm32l4xx_hal_conf.h": "c",
-        "api.h": "c"
+        "api.h": "c",
+        "rng.h": "c",
+        "stm32l4xx_ll_rng.h": "c",
+        "ctr_drbg.h": "c"
     }
 }

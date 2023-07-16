@@ -19,6 +19,7 @@
 #include "ctap.h"
 #include APP_CONFIG
 #include "../../../crypto/kyber512/api.h"
+#include "led.h"
 
 #if !defined(TEST)
 
@@ -29,7 +30,7 @@ void run_benchmark()
 
     uint32_t start_time, end_time, elapsed_time;
 
-    start_time = HAL_GetTick(); // Getting system tick for STM32L432
+    start_time = HAL_GetTick();
 
     // Generate a keypair
     crypto_kem_keypair(pk, sk);
@@ -40,11 +41,13 @@ void run_benchmark()
     // Decrypt the message
     crypto_kem_dec(ss2, ct, sk);
 
-    end_time = HAL_GetTick(); // Getting system tick for STM32L432
+    end_time = HAL_GetTick();
 
     elapsed_time = end_time - start_time;
 
-    printf("Kyber benchmark elapsed time: %lu\n", elapsed_time); // Printing the elapsed time to console
+    printf("Kyber benchmark elapsed time: %lu\n", elapsed_time);
+
+    led_rgb(0x0000FF);
 }
 
 int main(int argc, char *argv[])
