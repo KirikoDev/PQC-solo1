@@ -6,9 +6,9 @@ const version_t firmware_version
 __attribute__ ((section (".flag"))) __attribute__ ((__used__)) 
 #endif
     =  {
-      .major = SOLO_VERSION_MAJ,
-      .minor = SOLO_VERSION_MIN,
-      .patch = SOLO_VERSION_PATCH,
+      .major = 0,
+      .minor = 0,
+      .patch = 0,
       .reserved = 0
     };
 

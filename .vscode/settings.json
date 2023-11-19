@@ -5,6 +5,23 @@
         "api.h": "c",
         "rng.h": "c",
         "stm32l4xx_ll_rng.h": "c",
-        "ctr_drbg.h": "c"
+        "ctr_drbg.h": "c",
+        "entropy_poll.h": "c",
+        "platform_util.h": "c",
+        "unistd.h": "c",
+        "sha512.h": "c",
+        "common.h": "c",
+        "build_info.h": "c",
+        "mbedtls_config.h": "c",
+        "stm32l4xx_hal.h": "c",
+        "nvic.h": "c",
+        "systick.h": "c",
+        "util.h": "c",
+        "speed_print.h": "c",
+        "usbd_desc.h": "c",
+        "conf.h": "c",
+        "err.h": "c",
+        "evp.h": "c",
+        "locale": "c"
     }
 }

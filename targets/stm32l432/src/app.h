@@ -16,7 +16,7 @@
 
 #ifndef DEBUG_LEVEL
 // Enable the CDC ACM USB interface & debug logs (DEBUG_LEVEL > 0)
-#define DEBUG_LEVEL 0
+#define DEBUG_LEVEL 2
 #endif
 
 // Enable the CCID USB interface

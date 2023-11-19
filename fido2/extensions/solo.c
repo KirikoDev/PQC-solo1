@@ -46,9 +46,9 @@ int16_t bridge_u2f_to_solo(uint8_t * output, uint8_t * keyh, int keylen)
     switch(req->operation)
     {
         case WalletVersion:
-            output[0] = SOLO_VERSION_MAJ;
-            output[1] = SOLO_VERSION_MIN;
-            output[2] = SOLO_VERSION_PATCH;
+            output[0] =  firmware_version.major;
+            output[1] =  firmware_version.minor;
+            output[2] =  firmware_version.patch;
             break;
         case WalletRng:
             printf1(TAG_WALLET,"SoloRng\n");

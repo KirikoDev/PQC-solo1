@@ -757,9 +757,9 @@ uint8_t ctaphid_custom_command(int len, CTAP_RESPONSE * ctap_resp, CTAPHID_WRITE
         case CTAPHID_GETVERSION:
             printf1(TAG_HID,"CTAPHID_GETVERSION\n");
             wb->bcnt = 4;
-            ctap_buffer[0] = SOLO_VERSION_MAJ;
-            ctap_buffer[1] = SOLO_VERSION_MIN;
-            ctap_buffer[2] = SOLO_VERSION_PATCH;
+            ctap_buffer[0] = firmware_version.major;
+            ctap_buffer[1] = firmware_version.minor;
+            ctap_buffer[2] = firmware_version.patch;
 #if defined(SOLO)
             ctap_buffer[3] = solo_is_locked();
 #else
