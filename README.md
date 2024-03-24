@@ -19,9 +19,13 @@ Jeder dieser Algorithmen wurde unter Berücksichtigung der begrenzten Ressourcen
 
 Das Repository ist wie folgt strukturiert:
 
-- `/src`: Quellcode der implementierten Algorithmen und Anpassungen.
-- `/firmware`: Angepasste Firmware für SoloKeys, die die PQC-Algorithmen unterstützt.
-- `/docs`: Dokumentation der Implementierung, Testergebnisse und Performance-Analyse.
+- `/docs`: Enthält detaillierte Anleitungen zur Installation und Verwendung des Repositories.
+
+- `/crypto`: Dieses Verzeichnis beherbergt alle kryptografischen Komponenten, einschließlich der mbedTLS-Bibliothek und der implementierten Post-Quanten-Kryptografie-Algorithmen.
+
+- `/scripts`: Enthält Python-Hilfsskripte, die für die Auswertung sowie Erstellung von Grafiken und Statistiken zur Visualisierung der Ergebnisse genutzt werden.
+
+- `/targets/stm32l432`: In diesem Verzeichnis befindet sich der Quellcode für den SoloKey.
 
 ## Voraussetzungen
 
