@@ -1,0 +1,831 @@
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 42
+Iteration 2reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+3 Iterations in progress...
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 43
+Iteration 2reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+3 Iterations in progress...
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 43
+Iteration 2reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 42
+Correct: 1, Failed: 0
+Total time: 117 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 42
+Correct: 1, Failed: 0
+Total time: 116 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 40
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 116 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 117 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 42
+Correct: 1, Failed: 0
+Total time: 117 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 40
+Dec time: 42
+Correct: 1, Failed: 0
+Total time: 116 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 40
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 116 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 42
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 118 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 42
+Correct: 1, Failed: 0
+Total time: 117 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 40
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 116 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 40
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 116 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 117 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 42
+Correct: 1, Failed: 0
+Total time: 116 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 117 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 42
+Correct: 1, Failed: 0
+Total time: 117 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 40
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 116 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 20
+Keypair time: 33
+Enc time: 41
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 117 msreconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 117 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 40
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 116 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 40
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 116 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 40
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 116 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 42
+Correct: 1, Failed: 0
+Total time: 116 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 42
+Correct: 1, Failed: 0
+Total time: 117 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 42
+Correct: 1, Failed: 0
+Total time: 117 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 40
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 116 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 117 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 42
+Correct: 1, Failed: 0
+Total time: 117 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 117 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 42
+Correct: 1, Failed: 0
+Total time: 117 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 117 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 117 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 40
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 116 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 42
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 118 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 40
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 116 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 40
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 116 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 40
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 116 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 40
+Keypair time: 33
+Enc time: 40
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 116 msreconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 42
+Correct: 1, Failed: 0
+Total time: 117 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 117 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 42
+Correct: 1, Failed: 0
+Total time: 116 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 117 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 117 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 40
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 116 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 40
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 116 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 117 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 42
+Correct: 1, Failed: 0
+Total time: 117 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 50
+Keypair time: 33
+Enc time: 41
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 117 msreconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 40
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 116 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 42
+Correct: 1, Failed: 0
+Total time: 116 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 42
+Correct: 1, Failed: 0
+Total time: 117 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 40
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 116 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 42
+Correct: 1, Failed: 0
+Total time: 117 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 40
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 116 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 117 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 117 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 40
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 116 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 60
+Keypair time: 33
+Enc time: 42
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 118 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 118 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 42
+Correct: 1, Failed: 0
+Total time: 117 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 42
+Correct: 1, Failed: 0
+Total time: 117 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 117 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 117 msreconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 117 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 42
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 118 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 40
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 116 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 42
+Correct: 1, Failed: 0
+Total time: 117 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 70
+Keypair time: 33
+Enc time: 41
+Dec time: 42
+Correct: 1, Failed: 0
+Total time: 117 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 117 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 117 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 42
+Correct: 1, Failed: 0
+Total time: 117 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 40
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 116 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 117 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 117 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 117 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 117 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 117 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 80
+Keypair time: 33
+Enc time: 41
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 117 mreconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 42
+Correct: 1, Failed: 0
+Total time: 117 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 42
+Correct: 1, Failed: 0
+Total time: 117 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 42
+Correct: 1, Failed: 0
+Total time: 116 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 42
+Correct: 1, Failed: 0
+Total time: 116 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 40
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 116 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 40
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 116 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 117 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 43
+Correct: 1, Failed: 0
+Total time: 117 ms
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 43
+Iteration 90
+Keypair time: 33
+Enc time: 41
+Dec time: 42
+Iteration 91
+Keypair time: 33
+Enc time: 41
+Dec time: 43
+Iteration 92
+Keypair time: 33
+Enc time: 41
+Dec time: 42
+Iteration 1
+Keypair time: 33
+Enc time: 40
+Dec time: 43
+Iteration 1
+Keypair time: 33
+Enc time: 40
+Dec time: 43
+Iteration 1
+Keypair time: 33
+Enc time: 40
+Dec time: 43
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 42
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 42
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 42
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 42
+Iteration 100
+Keypair time: 33
+Enc time: 40
+Dec time: 43

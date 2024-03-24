@@ -4,10 +4,21 @@
 #include "packing.h"
 #include "polyvec.h"
 #include "poly.h"
-#include "randombytes.h"
+#include "rng.h"
 #include "symmetric.h"
 #include "fips202.h"
+void print_message2(const char *message)
+{
+    // Calculate the length of the message
+    size_t len = strlen(message);
 
+    // Transmit the message over USB CDC
+    int result = CDC_Transmit_FS((uint8_t *)message, len);
+    while (result == 1)
+    {
+        result = CDC_Transmit_FS((uint8_t *)message, len);
+    }
+}
 /*************************************************
 * Name:        crypto_sign_keypair
 *
@@ -28,35 +39,54 @@ int crypto_sign_keypair(uint8_t *pk, uint8_t *sk) {
   polyvecl s1, s1hat;
   polyveck s2, t1, t0;
 
+  //print_message2("1");
+
   /* Get randomness for rho, rhoprime and key */
   randombytes(seedbuf, SEEDBYTES);
+  //print_message2("2");
   shake256(seedbuf, 3*SEEDBYTES, seedbuf, SEEDBYTES);
   rho = seedbuf;
   rhoprime = seedbuf + SEEDBYTES;
   key = seedbuf + 2*SEEDBYTES;
+  print_message2("3");
 
   /* Expand matrix */
   polyvec_matrix_expand(mat, rho);
-
+  print_message2("\n4\n");
   /* Sample short vectors s1 and s2 */
   polyvecl_uniform_eta(&s1, rhoprime, 0);
+  print_message2("\n5\n");
   polyveck_uniform_eta(&s2, rhoprime, L);
+  print_message2("\n6sechs\n");
 
   /* Matrix-vector multiplication */
-  s1hat = s1;
+  for (int i = 0; i < L; ++i) {
+      print_message2("\nloop1\n");
+      for (int j = 0; j < N; ++j) {
+          print_message2("\nloop2\n");
+          s1hat.vec[i].coeffs[j] = s1.vec[i].coeffs[j];
+      }
+  }
+  print_message2("\n6.5\n");
   polyvecl_ntt(&s1hat);
+  print_message2("\n7\n");
   polyvec_matrix_pointwise_montgomery(&t1, mat, &s1hat);
+  //print_message2("\n8\n");
   polyveck_reduce(&t1);
+  //print_message2("\n9\n");
   polyveck_invntt_tomont(&t1);
+  //print_message2("\n10\n");
 
   /* Add error vector s2 */
   polyveck_add(&t1, &t1, &s2);
-
+  //print_message2("\n11\n");
   /* Extract t1 and write public key */
   polyveck_caddq(&t1);
+  //print_message2("12");
   polyveck_power2round(&t1, &t0, &t1);
+  //print_message2("13");
   pack_pk(pk, rho, &t1);
-
+  //print_message2("14");
   /* Compute CRH(rho, t1) and write secret key */
   crh(tr, pk, CRYPTO_PUBLICKEYBYTES);
   pack_sk(sk, rho, tr, key, &t0, &s1, &s2);

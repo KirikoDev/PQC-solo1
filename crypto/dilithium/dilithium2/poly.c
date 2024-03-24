@@ -128,7 +128,18 @@ void poly_shiftl(poly *a) {
 
   DBENCH_STOP(*tmul);
 }
+void print_message4(const char *message)
+{
+    // Calculate the length of the message
+    size_t len = strlen(message);
 
+    // Transmit the message over USB CDC
+    int result = CDC_Transmit_FS((uint8_t *)message, len);
+    while (result == 1)
+    {
+        result = CDC_Transmit_FS((uint8_t *)message, len);
+    }
+}
 /*************************************************
 * Name:        poly_ntt
 *
@@ -138,11 +149,13 @@ void poly_shiftl(poly *a) {
 * Arguments:   - poly *a: pointer to input/output polynomial
 **************************************************/
 void poly_ntt(poly *a) {
+  print_message4("c1");
   DBENCH_START();
-
+print_message4("c2");
   ntt(a->coeffs);
-
+print_message4("c3");
   DBENCH_STOP(*tmul);
+  print_message4("c4");
 }
 
 /*************************************************
@@ -445,6 +458,18 @@ static unsigned int rej_eta(int32_t *a,
 *              - const uint8_t seed[]: byte array with seed of length SEEDBYTES
 *              - uint16_t nonce: 2-byte nonce
 **************************************************/
+void print_message5(const char *message)
+{
+    // Calculate the length of the message
+    size_t len = strlen(message);
+
+    // Transmit the message over USB CDC
+    int result = CDC_Transmit_FS((uint8_t *)message, len);
+    while (result == 1)
+    {
+        result = CDC_Transmit_FS((uint8_t *)message, len);
+    }
+}
 #if ETA == 2
 #define POLY_UNIFORM_ETA_NBLOCKS ((136 + STREAM128_BLOCKBYTES - 1)/STREAM128_BLOCKBYTES)
 #elif ETA == 4
@@ -454,19 +479,24 @@ void poly_uniform_eta(poly *a,
                       const uint8_t seed[SEEDBYTES],
                       uint16_t nonce)
 {
+  print_message5("p1");
   unsigned int ctr;
   unsigned int buflen = POLY_UNIFORM_ETA_NBLOCKS*STREAM128_BLOCKBYTES;
   uint8_t buf[POLY_UNIFORM_ETA_NBLOCKS*STREAM128_BLOCKBYTES];
   stream128_state state;
 
   stream128_init(&state, seed, nonce);
+  print_message5("p2");
   stream128_squeezeblocks(buf, POLY_UNIFORM_ETA_NBLOCKS, &state);
-
+  print_message5("p3");
   ctr = rej_eta(a->coeffs, N, buf, buflen);
-
+  //print_message5("p4");
   while(ctr < N) {
+    // print_message5("j1");
     stream128_squeezeblocks(buf, 1, &state);
+       //print_message5("j2");
     ctr += rej_eta(a->coeffs + ctr, N - ctr, buf, STREAM128_BLOCKBYTES);
+       //print_message5("j3");
   }
 }
 

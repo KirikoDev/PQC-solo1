@@ -1,0 +1,58 @@
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 42
+Iteration 2reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 42
+Dec time: 43
+Iteration 2reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 42
+Iteration 2reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 43reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 42reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 43reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 42reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+
+Iteration 1
+Keypair time: 33
+Enc time: 41
+Dec time: 42

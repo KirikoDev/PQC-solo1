@@ -7,7 +7,7 @@
 
 #include <string.h>
 #include "rng.h"
-//#include "../../../targets/stm32l432/src/rng.h"
+// #include "../../../targets/stm32l432/src/rng.h"
 #include "mbedtls/aes.h"
 #include "mbedtls/ctr_drbg.h"
 #include "mbedtls/entropy.h"

@@ -2,7 +2,7 @@
 #include "params.h"
 #include "polyvec.h"
 #include "poly.h"
-
+#include "sign.h"
 /*************************************************
 * Name:        expand_mat
 *
@@ -32,12 +32,25 @@ void polyvec_matrix_pointwise_montgomery(polyveck *t, const polyvecl mat[K], con
 /**************************************************************/
 /************ Vectors of polynomials of length L **************/
 /**************************************************************/
+void print_message3(const char *message)
+{
+    // Calculate the length of the message
+    size_t len = strlen(message);
 
+    // Transmit the message over USB CDC
+    int result = CDC_Transmit_FS((uint8_t *)message, len);
+    while (result == 1)
+    {
+        result = CDC_Transmit_FS((uint8_t *)message, len);
+    }
+}
 void polyvecl_uniform_eta(polyvecl *v, const uint8_t seed[SEEDBYTES], uint16_t nonce) {
   unsigned int i;
 
-  for(i = 0; i < L; ++i)
+  for(i = 0; i < L; ++i) {
+    //print_message3("\ni\n");
     poly_uniform_eta(&v->vec[i], seed, nonce++);
+  }
 }
 
 void polyvecl_uniform_gamma1(polyvecl *v, const uint8_t seed[SEEDBYTES], uint16_t nonce) {
@@ -95,10 +108,13 @@ void polyvecl_add(polyvecl *w, const polyvecl *u, const polyvecl *v) {
 * Arguments:   - polyvecl *v: pointer to input/output vector
 **************************************************/
 void polyvecl_ntt(polyvecl *v) {
-  unsigned int i;
+  unsigned int i; 
 
-  for(i = 0; i < L; ++i)
+  print_message3("kk");
+  for(i = 0; i < L; ++i) {
+    print_message3("i2");
     poly_ntt(&v->vec[i]);
+  }
 }
 
 void polyvecl_invntt_tomont(polyvecl *v) {

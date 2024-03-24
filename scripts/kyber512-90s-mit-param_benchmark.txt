@@ -1,0 +1,4007 @@
+reconnecting /dev/tty.usbmodem2056318C414E2...
+done
+1000 Iterations in progress...
+Initialising benchmark...
+
+Iteration 1
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 2
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 3
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 4
+Keypair time: 35
+Enc time: 40
+Dec time: 42
+Iteration 5
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 6
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 7
+Keypair time: 35
+Enc time: 40
+Dec time: 42
+Iteration 8
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 9
+Keypair time: 34
+Enc time: 40
+Dec time: 43
+Iteration 10
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 11
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 12
+Keypair time: 34
+Enc time: 38
+Dec time: 43
+Iteration 13
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 14
+Keypair time: 35
+Enc time: 40
+Dec time: 42
+Iteration 15
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 16
+Keypair time: 34
+Enc time: 40
+Dec time: 43
+Iteration 17
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 18
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 19
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 20
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 21
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 22
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 23
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 24
+Keypair time: 35
+Enc time: 40
+Dec time: 42
+Iteration 25
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 26
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 27
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 28
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 29
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 30
+Keypair time: 34
+Enc time: 39
+Dec time: 41
+Iteration 31
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 32
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 33
+Keypair time: 34
+Enc time: 40
+Dec time: 43
+Iteration 34
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 35
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 36
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 37
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 38
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 39
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 40
+Keypair time: 34
+Enc time: 39
+Dec time: 41
+Iteration 41
+Keypair time: 35
+Enc time: 40
+Dec time: 42
+Iteration 42
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 43
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 44
+Keypair time: 33
+Enc time: 40
+Dec time: 42
+Iteration 45
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 46
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 47
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 48
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 49
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 50
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 51
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 52
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 53
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 54
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 55
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 56
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 57
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 58
+Keypair time: 33
+Enc time: 39
+Dec time: 42
+Iteration 59
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 60
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 61
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 62
+Keypair time: 35
+Enc time: 40
+Dec time: 42
+Iteration 63
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 64
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 65
+Keypair time: 33
+Enc time: 40
+Dec time: 42
+Iteration 66
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 67
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 68
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 69
+Keypair time: 35
+Enc time: 39
+Dec time: 41
+Iteration 70
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 71
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 72
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 73
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 74
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 75
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 76
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 77
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 78
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 79
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 80
+Keypair time: 35
+Enc time: 38
+Dec time: 42
+Iteration 81
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 82
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 83
+Keypair time: 35
+Enc time: 38
+Dec time: 42
+Iteration 84
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 85
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 86
+Keypair time: 35
+Enc time: 39
+Dec time: 41
+Iteration 87
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 88
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 89
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 90
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 91
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 92
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 93
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 94
+Keypair time: 35
+Enc time: 38
+Dec time: 42
+Iteration 95
+Keypair time: 34
+Enc time: 40
+Dec time: 43
+Iteration 96
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 97
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 98
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 99
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 100
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 101
+Keypair time: 34
+Enc time: 38
+Dec time: 43
+Iteration 102
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 103
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 104
+Keypair time: 34
+Enc time: 38
+Dec time: 43
+Iteration 105
+Keypair time: 35
+Enc time: 38
+Dec time: 42
+Iteration 106
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 107
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 108
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 109
+Keypair time: 33
+Enc time: 40
+Dec time: 42
+Iteration 110
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 111
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 112
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 113
+Keypair time: 34
+Enc time: 39
+Dec time: 41
+Iteration 114
+Keypair time: 35
+Enc time: 40
+Dec time: 42
+Iteration 115
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 116
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 117
+Keypair time: 35
+Enc time: 40
+Dec time: 42
+Iteration 118
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 119
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 120
+Keypair time: 33
+Enc time: 40
+Dec time: 42
+Iteration 121
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 122
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 123
+Keypair time: 33
+Enc time: 39
+Dec time: 42
+Iteration 124
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 125
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 126
+Keypair time: 33
+Enc time: 39
+Dec time: 43
+Iteration 127
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 128
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 129
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 130
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 131
+Keypair time: 35
+Enc time: 40
+Dec time: 42
+Iteration 132
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 133
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 134
+Keypair time: 33
+Enc time: 40
+Dec time: 42
+Iteration 135
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 136
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 137
+Keypair time: 33
+Enc time: 40
+Dec time: 42
+Iteration 138
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 139
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 140
+Keypair time: 33
+Enc time: 39
+Dec time: 43
+Iteration 141
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 142
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 143
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 144
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 145
+Keypair time: 35
+Enc time: 40
+Dec time: 42
+Iteration 146
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 147
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 148
+Keypair time: 35
+Enc time: 40
+Dec time: 42
+Iteration 149
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 150
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 151
+Keypair time: 33
+Enc time: 40
+Dec time: 42
+Iteration 152
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 153
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 154
+Keypair time: 33
+Enc time: 40
+Dec time: 42
+Iteration 155
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 156
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 157
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 158
+Keypair time: 34
+Enc time: 39
+Dec time: 41
+Iteration 159
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 160
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 161
+Keypair time: 34
+Enc time: 39
+Dec time: 41
+Iteration 162
+Keypair time: 35
+Enc time: 40
+Dec time: 42
+Iteration 163
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 164
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 165
+Keypair time: 33
+Enc time: 40
+Dec time: 42
+Iteration 166
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 167
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 168
+Keypair time: 33
+Enc time: 39
+Dec time: 42
+Iteration 169
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 170
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 171
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 172
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 173
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 174
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 175
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 176
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 177
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 178
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 179
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 180
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 181
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 182
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 183
+Keypair time: 35
+Enc time: 39
+Dec time: 41
+Iteration 184
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 185
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 186
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 187
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 188
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 189
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 190
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 191
+Keypair time: 35
+Enc time: 38
+Dec time: 42
+Iteration 192
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 193
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 194
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 195
+Keypair time: 33
+Enc time: 40
+Dec time: 43
+Iteration 196
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 197
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 198
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 199
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 200
+Keypair time: 35
+Enc time: 40
+Dec time: 42
+Iteration 201
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 202
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 203
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 204
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 205
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 206
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 207
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 208
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 209
+Keypair time: 33
+Enc time: 39
+Dec time: 43
+Iteration 210
+Keypair time: 34
+Enc time: 40
+Dec time: 43
+Iteration 211
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 212
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 213
+Keypair time: 33
+Enc time: 40
+Dec time: 42
+Iteration 214
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 215
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 216
+Keypair time: 33
+Enc time: 39
+Dec time: 42
+Iteration 217
+Keypair time: 35
+Enc time: 39
+Dec time: 41
+Iteration 218
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 219
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 220
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 221
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 222
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 223
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 224
+Keypair time: 35
+Enc time: 40
+Dec time: 42
+Iteration 225
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 226
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 227
+Keypair time: 33
+Enc time: 40
+Dec time: 42
+Iteration 228
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 229
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 230
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 231
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 232
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 233
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 234
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 235
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 236
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 237
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 238
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 239
+Keypair time: 35
+Enc time: 38
+Dec time: 42
+Iteration 240
+Keypair time: 34
+Enc time: 40
+Dec time: 43
+Iteration 241
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 242
+Keypair time: 35
+Enc time: 38
+Dec time: 42
+Iteration 243
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 244
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 245
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 246
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 247
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 248
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 249
+Keypair time: 34
+Enc time: 38
+Dec time: 43
+Iteration 250
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 251
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 252
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 253
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 254
+Keypair time: 33
+Enc time: 40
+Dec time: 42
+Iteration 255
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 256
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 257
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 258
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 259
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 260
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 261
+Keypair time: 34
+Enc time: 39
+Dec time: 41
+Iteration 262
+Keypair time: 35
+Enc time: 40
+Dec time: 42
+Iteration 263
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 264
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 265
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 266
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 267
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 268
+Keypair time: 33
+Enc time: 39
+Dec time: 42
+Iteration 269
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 270
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 271
+Keypair time: 33
+Enc time: 39
+Dec time: 43
+Iteration 272
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 273
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 274
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 275
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 276
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 277
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 278
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 279
+Keypair time: 33
+Enc time: 40
+Dec time: 42
+Iteration 280
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 281
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 282
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 283
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 284
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 285
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 286
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 287
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 288
+Keypair time: 35
+Enc time: 38
+Dec time: 42
+Iteration 289
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 290
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 291
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 292
+Keypair time: 33
+Enc time: 40
+Dec time: 42
+Iteration 293
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 294
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 295
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 296
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 297
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 298
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 299
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 300
+Keypair time: 35
+Enc time: 40
+Dec time: 42
+Iteration 301
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 302
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 303
+Keypair time: 33
+Enc time: 40
+Dec time: 42
+Iteration 304
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 305
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 306
+Keypair time: 33
+Enc time: 39
+Dec time: 42
+Iteration 307
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 308
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 309
+Keypair time: 33
+Enc time: 39
+Dec time: 43
+Iteration 310
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 311
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 312
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 313
+Keypair time: 34
+Enc time: 39
+Dec time: 41
+Iteration 314
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 315
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 316
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 317
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 318
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 319
+Keypair time: 35
+Enc time: 38
+Dec time: 42
+Iteration 320
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 321
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 322
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 323
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 324
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 325
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 326
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 327
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 328
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 329
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 330
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 331
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 332
+Keypair time: 34
+Enc time: 38
+Dec time: 43
+Iteration 333
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 334
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 335
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 336
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 337
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 338
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 339
+Keypair time: 35
+Enc time: 38
+Dec time: 42
+Iteration 340
+Keypair time: 34
+Enc time: 40
+Dec time: 43
+Iteration 341
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 342
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 343
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 344
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 345
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 346
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 347
+Keypair time: 34
+Enc time: 40
+Dec time: 43
+Iteration 348
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 349
+Keypair time: 35
+Enc time: 38
+Dec time: 42
+Iteration 350
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 351
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 352
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 353
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 354
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 355
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 356
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 357
+Keypair time: 35
+Enc time: 38
+Dec time: 42
+Iteration 358
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 359
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 360
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 361
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 362
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 363
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 364
+Keypair time: 33
+Enc time: 40
+Dec time: 43
+Iteration 365
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 366
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 367
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 368
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 369
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 370
+Keypair time: 34
+Enc time: 38
+Dec time: 43
+Iteration 371
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 372
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 373
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 374
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 375
+Keypair time: 33
+Enc time: 40
+Dec time: 42
+Iteration 376
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 377
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 378
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 379
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 380
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 381
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 382
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 383
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 384
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 385
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 386
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 387
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 388
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 389
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 390
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 391
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 392
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 393
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 394
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 395
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 396
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 397
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 398
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 399
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 400
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 401
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 402
+Keypair time: 33
+Enc time: 40
+Dec time: 43
+Iteration 403
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 404
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 405
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 406
+Keypair time: 34
+Enc time: 39
+Dec time: 41
+Iteration 407
+Keypair time: 35
+Enc time: 40
+Dec time: 42
+Iteration 408
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 409
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 410
+Keypair time: 33
+Enc time: 40
+Dec time: 42
+Iteration 411
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 412
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 413
+Keypair time: 33
+Enc time: 40
+Dec time: 42
+Iteration 414
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 415
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 416
+Keypair time: 33
+Enc time: 39
+Dec time: 43
+Iteration 417
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 418
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 419
+Keypair time: 34
+Enc time: 38
+Dec time: 43
+Iteration 420
+Keypair time: 34
+Enc time: 39
+Dec time: 41
+Iteration 421
+Keypair time: 35
+Enc time: 40
+Dec time: 42
+Iteration 422
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 423
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 424
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 425
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 426
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 427
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 428
+Keypair time: 35
+Enc time: 39
+Dec time: 41
+Iteration 429
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 430
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 431
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 432
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 433
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 434
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 435
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 436
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 437
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 438
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 439
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 440
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 441
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 442
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 443
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 444
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 445
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 446
+Keypair time: 35
+Enc time: 38
+Dec time: 42
+Iteration 447
+Keypair time: 34
+Enc time: 40
+Dec time: 43
+Iteration 448
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 449
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 450
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 451
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 452
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 453
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 454
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 455
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 456
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 457
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 458
+Keypair time: 33
+Enc time: 40
+Dec time: 42
+Iteration 459
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 460
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 461
+Keypair time: 33
+Enc time: 39
+Dec time: 42
+Iteration 462
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 463
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 464
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 465
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 466
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 467
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 468
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 469
+Keypair time: 35
+Enc time: 40
+Dec time: 42
+Iteration 470
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 471
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 472
+Keypair time: 33
+Enc time: 40
+Dec time: 42
+Iteration 473
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 474
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 475
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 476
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 477
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 478
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 479
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 480
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 481
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 482
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 483
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 484
+Keypair time: 35
+Enc time: 38
+Dec time: 42
+Iteration 485
+Keypair time: 34
+Enc time: 40
+Dec time: 43
+Iteration 486
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 487
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 488
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 489
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 490
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 491
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 492
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 493
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 494
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 495
+Keypair time: 35
+Enc time: 38
+Dec time: 42
+Iteration 496
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 497
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 498
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 499
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 500
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 501
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 502
+Keypair time: 33
+Enc time: 40
+Dec time: 43
+Iteration 503
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 504
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 505
+Keypair time: 34
+Enc time: 38
+Dec time: 43
+Iteration 506
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 507
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 508
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 509
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 510
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 511
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 512
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 513
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 514
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 515
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 516
+Keypair time: 33
+Enc time: 40
+Dec time: 43
+Iteration 517
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 518
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 519
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 520
+Keypair time: 34
+Enc time: 39
+Dec time: 41
+Iteration 521
+Keypair time: 35
+Enc time: 40
+Dec time: 42
+Iteration 522
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 523
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 524
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 525
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 526
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 527
+Keypair time: 33
+Enc time: 40
+Dec time: 42
+Iteration 528
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 529
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 530
+Keypair time: 33
+Enc time: 40
+Dec time: 42
+Iteration 531
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 532
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 533
+Keypair time: 34
+Enc time: 38
+Dec time: 43
+Iteration 534
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 535
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 536
+Keypair time: 34
+Enc time: 38
+Dec time: 43
+Iteration 537
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 538
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 539
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 540
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 541
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 542
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 543
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 544
+Keypair time: 33
+Enc time: 40
+Dec time: 42
+Iteration 545
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 546
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 547
+Keypair time: 33
+Enc time: 40
+Dec time: 43
+Iteration 548
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 549
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 550
+Keypair time: 34
+Enc time: 38
+Dec time: 43
+Iteration 551
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 552
+Keypair time: 35
+Enc time: 40
+Dec time: 42
+Iteration 553
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 554
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 555
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 556
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 557
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 558
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 559
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 560
+Keypair time: 35
+Enc time: 38
+Dec time: 42
+Iteration 561
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 562
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 563
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 564
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 565
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 566
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 567
+Keypair time: 34
+Enc time: 38
+Dec time: 43
+Iteration 568
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 569
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 570
+Keypair time: 34
+Enc time: 38
+Dec time: 43
+Iteration 571
+Keypair time: 35
+Enc time: 38
+Dec time: 42
+Iteration 572
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 573
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 574
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 575
+Keypair time: 33
+Enc time: 40
+Dec time: 42
+Iteration 576
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 577
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 578
+Keypair time: 33
+Enc time: 40
+Dec time: 43
+Iteration 579
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 580
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 581
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 582
+Keypair time: 34
+Enc time: 39
+Dec time: 41
+Iteration 583
+Keypair time: 35
+Enc time: 40
+Dec time: 42
+Iteration 584
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 585
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 586
+Keypair time: 33
+Enc time: 39
+Dec time: 42
+Iteration 587
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 588
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 589
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 590
+Keypair time: 35
+Enc time: 39
+Dec time: 41
+Iteration 591
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 592
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 593
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 594
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 595
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 596
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 597
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 598
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 599
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 600
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 601
+Keypair time: 35
+Enc time: 38
+Dec time: 42
+Iteration 602
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 603
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 604
+Keypair time: 35
+Enc time: 39
+Dec time: 41
+Iteration 605
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 606
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 607
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 608
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 609
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 610
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 611
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 612
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 613
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 614
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 615
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 616
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 617
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 618
+Keypair time: 35
+Enc time: 38
+Dec time: 42
+Iteration 619
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 620
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 621
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 622
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 623
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 624
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 625
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 626
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 627
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 628
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 629
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 630
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 631
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 632
+Keypair time: 35
+Enc time: 38
+Dec time: 42
+Iteration 633
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 634
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 635
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 636
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 637
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 638
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 639
+Keypair time: 34
+Enc time: 38
+Dec time: 43
+Iteration 640
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 641
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 642
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 643
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 644
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 645
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 646
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 647
+Keypair time: 33
+Enc time: 39
+Dec time: 43
+Iteration 648
+Keypair time: 34
+Enc time: 39
+Dec time: 41
+Iteration 649
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 650
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 651
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 652
+Keypair time: 35
+Enc time: 40
+Dec time: 42
+Iteration 653
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 654
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 655
+Keypair time: 33
+Enc time: 40
+Dec time: 42
+Iteration 656
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 657
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 658
+Keypair time: 33
+Enc time: 39
+Dec time: 42
+Iteration 659
+Keypair time: 35
+Enc time: 39
+Dec time: 41
+Iteration 660
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 661
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 662
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 663
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 664
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 665
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 666
+Keypair time: 35
+Enc time: 40
+Dec time: 42
+Iteration 667
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 668
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 669
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 670
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 671
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 672
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 673
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 674
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 675
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 676
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 677
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 678
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 679
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 680
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 681
+Keypair time: 35
+Enc time: 38
+Dec time: 42
+Iteration 682
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 683
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 684
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 685
+Keypair time: 34
+Enc time: 40
+Dec time: 43
+Iteration 686
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 687
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 688
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 689
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 690
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 691
+Keypair time: 34
+Enc time: 38
+Dec time: 43
+Iteration 692
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 693
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 694
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 695
+Keypair time: 35
+Enc time: 38
+Dec time: 42
+Iteration 696
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 697
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 698
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 699
+Keypair time: 33
+Enc time: 40
+Dec time: 43
+Iteration 700
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 701
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 702
+Keypair time: 34
+Enc time: 38
+Dec time: 43
+Iteration 703
+Keypair time: 34
+Enc time: 39
+Dec time: 41
+Iteration 704
+Keypair time: 35
+Enc time: 40
+Dec time: 42
+Iteration 705
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 706
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 707
+Keypair time: 35
+Enc time: 40
+Dec time: 42
+Iteration 708
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 709
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 710
+Keypair time: 33
+Enc time: 39
+Dec time: 42
+Iteration 711
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 712
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 713
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 714
+Keypair time: 35
+Enc time: 39
+Dec time: 41
+Iteration 715
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 716
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 717
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 718
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 719
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 720
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 721
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 722
+Keypair time: 35
+Enc time: 38
+Dec time: 42
+Iteration 723
+Keypair time: 34
+Enc time: 40
+Dec time: 43
+Iteration 724
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 725
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 726
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 727
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 728
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 729
+Keypair time: 34
+Enc time: 38
+Dec time: 43
+Iteration 730
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 731
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 732
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 733
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 734
+Keypair time: 33
+Enc time: 39
+Dec time: 42
+Iteration 735
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 736
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 737
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 738
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 739
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 740
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 741
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 742
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 743
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 744
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 745
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 746
+Keypair time: 35
+Enc time: 38
+Dec time: 42
+Iteration 747
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 748
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 749
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 750
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 751
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 752
+Keypair time: 35
+Enc time: 40
+Dec time: 42
+Iteration 753
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 754
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 755
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 756
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 757
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 758
+Keypair time: 33
+Enc time: 39
+Dec time: 42
+Iteration 759
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 760
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 761
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 762
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 763
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 764
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 765
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 766
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 767
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 768
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 769
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 770
+Keypair time: 35
+Enc time: 38
+Dec time: 42
+Iteration 771
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 772
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 773
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 774
+Keypair time: 36
+Enc time: 39
+Dec time: 43
+Iteration 775
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 776
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 777
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 778
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 779
+Keypair time: 33
+Enc time: 39
+Dec time: 42
+Iteration 780
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 781
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 782
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 783
+Keypair time: 35
+Enc time: 39
+Dec time: 41
+Iteration 784
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 785
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 786
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 787
+Keypair time: 34
+Enc time: 38
+Dec time: 43
+Iteration 788
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 789
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 790
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 791
+Keypair time: 35
+Enc time: 38
+Dec time: 42
+Iteration 792
+Keypair time: 34
+Enc time: 40
+Dec time: 43
+Iteration 793
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 794
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 795
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 796
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 797
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 798
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 799
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 800
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 801
+Keypair time: 34
+Enc time: 38
+Dec time: 43
+Iteration 802
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 803
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 804
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 805
+Keypair time: 35
+Enc time: 38
+Dec time: 42
+Iteration 806
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 807
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 808
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 809
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 810
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 811
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 812
+Keypair time: 34
+Enc time: 38
+Dec time: 43
+Iteration 813
+Keypair time: 34
+Enc time: 39
+Dec time: 41
+Iteration 814
+Keypair time: 35
+Enc time: 40
+Dec time: 42
+Iteration 815
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 816
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 817
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 818
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 819
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 820
+Keypair time: 33
+Enc time: 40
+Dec time: 42
+Iteration 821
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 822
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 823
+Keypair time: 33
+Enc time: 40
+Dec time: 43
+Iteration 824
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 825
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 826
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 827
+Keypair time: 34
+Enc time: 39
+Dec time: 41
+Iteration 828
+Keypair time: 35
+Enc time: 40
+Dec time: 42
+Iteration 829
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 830
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 831
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 832
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 833
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 834
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 835
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 836
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 837
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 838
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 839
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 840
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 841
+Keypair time: 35
+Enc time: 40
+Dec time: 42
+Iteration 842
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 843
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 844
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 845
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 846
+Keypair time: 34
+Enc time: 38
+Dec time: 43
+Iteration 847
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 848
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 849
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 850
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 851
+Keypair time: 33
+Enc time: 40
+Dec time: 42
+Iteration 852
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 853
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 854
+Keypair time: 33
+Enc time: 40
+Dec time: 43
+Iteration 855
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 856
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 857
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 858
+Keypair time: 34
+Enc time: 39
+Dec time: 41
+Iteration 859
+Keypair time: 35
+Enc time: 40
+Dec time: 42
+Iteration 860
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 861
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 862
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 863
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 864
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 865
+Keypair time: 33
+Enc time: 40
+Dec time: 42
+Iteration 866
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 867
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 868
+Keypair time: 33
+Enc time: 39
+Dec time: 43
+Iteration 869
+Keypair time: 34
+Enc time: 39
+Dec time: 41
+Iteration 870
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 871
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 872
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 873
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 874
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 875
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 876
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 877
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 878
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 879
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 880
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 881
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 882
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 883
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 884
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 885
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 886
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 887
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 888
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 889
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 890
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 891
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 892
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 893
+Keypair time: 33
+Enc time: 39
+Dec time: 42
+Iteration 894
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 895
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 896
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 897
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 898
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 899
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 900
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 901
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 902
+Keypair time: 35
+Enc time: 38
+Dec time: 42
+Iteration 903
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 904
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 905
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 906
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 907
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 908
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 909
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 910
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 911
+Keypair time: 35
+Enc time: 40
+Dec time: 42
+Iteration 912
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 913
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 914
+Keypair time: 35
+Enc time: 40
+Dec time: 42
+Iteration 915
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 916
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 917
+Keypair time: 33
+Enc time: 40
+Dec time: 42
+Iteration 918
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 919
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 920
+Keypair time: 33
+Enc time: 39
+Dec time: 42
+Iteration 921
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 922
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 923
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 924
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 925
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 926
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 927
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 928
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 929
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 930
+Keypair time: 34
+Enc time: 40
+Dec time: 43
+Iteration 931
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 932
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 933
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 934
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 935
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 936
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 937
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 938
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 939
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 940
+Keypair time: 35
+Enc time: 38
+Dec time: 42
+Iteration 941
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 942
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 943
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 944
+Keypair time: 33
+Enc time: 40
+Dec time: 42
+Iteration 945
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 946
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 947
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 948
+Keypair time: 34
+Enc time: 39
+Dec time: 41
+Iteration 949
+Keypair time: 35
+Enc time: 40
+Dec time: 42
+Iteration 950
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 951
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 952
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 953
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 954
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 955
+Keypair time: 33
+Enc time: 40
+Dec time: 42
+Iteration 956
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 957
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 958
+Keypair time: 33
+Enc time: 39
+Dec time: 42
+Iteration 959
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 960
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 961
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 962
+Keypair time: 34
+Enc time: 39
+Dec time: 41
+Iteration 963
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 964
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 965
+Keypair time: 34
+Enc time: 39
+Dec time: 41
+Iteration 966
+Keypair time: 35
+Enc time: 40
+Dec time: 42
+Iteration 967
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 968
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 969
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 970
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 971
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 972
+Keypair time: 33
+Enc time: 39
+Dec time: 42
+Iteration 973
+Keypair time: 35
+Enc time: 40
+Dec time: 41
+Iteration 974
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 975
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 976
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 977
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 978
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 979
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Iteration 980
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 981
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 982
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 983
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 984
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 985
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 986
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 987
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 988
+Keypair time: 34
+Enc time: 38
+Dec time: 43
+Iteration 989
+Keypair time: 34
+Enc time: 39
+Dec time: 42
+Iteration 990
+Keypair time: 35
+Enc time: 40
+Dec time: 42
+Iteration 991
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 992
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 993
+Keypair time: 34
+Enc time: 40
+Dec time: 42
+Iteration 994
+Keypair time: 35
+Enc time: 38
+Dec time: 43
+Iteration 995
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 996
+Keypair time: 33
+Enc time: 40
+Dec time: 42
+Iteration 997
+Keypair time: 35
+Enc time: 39
+Dec time: 42
+Iteration 998
+Keypair time: 35
+Enc time: 39
+Dec time: 43
+Iteration 999
+Keypair time: 34
+Enc time: 39
+Dec time: 43
+Iteration 1000
+Keypair time: 34
+Enc time: 40
+Dec time: 41
+Correct: 1000, Failed: 0
+Total time: 116095 ms

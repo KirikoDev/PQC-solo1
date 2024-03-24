@@ -26,7 +26,7 @@ void	fprintBstr(FILE *fp, char *S, unsigned char *A, unsigned long long L);
 char    AlgName[] = "My Alg Name";
 
 int
-main()
+main_dilithium()
 {
     char                fn_req[32], fn_rsp[32];
     FILE                *fp_req, *fp_rsp;
